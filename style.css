@@ -1,0 +1,22 @@
+h1 {
+  color: blue;
+  text-align: center; 
+}
+
+body {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.container {
+  width: 400px;
+  margin: 0 auto;
+  border: 2px solid grey;
+  border-radius: 5px;
+  padding: 20px;
+  padding-top: 10px;
+}
+
+.output {
+  text-align: center;
+  padding: 10px;
+}
