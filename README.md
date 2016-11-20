@@ -1,3 +1,3 @@
 # calculator-js
 
-A calculator web app using JavaScript with jQuery
+A calculator web app using JavaScript
